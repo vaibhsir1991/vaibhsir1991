@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @vaibhsir1991
-- 👀 I’m like building stuffs
+- 👀 I like building stuffs
 - 🌱 I’m currently learning **Webpack5 - Module Federation**
 - 💞️ I’m looking to collaborate on any intresting Web development work
 - 📫 How to reach me [vaibhav_sirsikar@yahoo.com](mailto:vaibhav_sirsikar@yahoo.com)
